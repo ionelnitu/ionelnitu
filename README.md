@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ionelnitu
 - 👀 I’m interested in Java Developing Application
-- 🌱 I’m currently learning Java Programming
+- 🌱 I’m a Junior Java Developer
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me https://www.linkedin.com/in/ionel-nitu/
 
